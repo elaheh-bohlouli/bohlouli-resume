@@ -1,0 +1,11 @@
+.bodySty{background-color: rgb(233, 241, 241); margin: 5%;}
+.rtlStyle{direction: rtl;}
+.ltrStyle{direction: ltr;}
+.h1Sty{color: rgb(140, 70, 200); direction: rtl;}
+.div1Styl{background-color: rgb(200, 218, 218); border-style: solid; padding: 5px; border-radius: 10px;}
+.legendSty{ direction: rtl; font-style: normal; font-weight: bold; text-align: justify; padding: 10px;}
+.fieldsetSty{direction: rtl; border-style: dashed; border-color: black; border-radius: 10px;}
+.imgSty{max-height: 120px; max-width: 90px ; overflow: auto; float: left; border-radius: 6px;}
+.textareaSty{width: 800px; height: 50px; direction: ltr; margin: 10px; padding: 10px;}
+.ulSty{background-color: white; border: groove; padding: 10px; width: 800px;}
+.inputSty{padding: 2px; margin: 5px;}
